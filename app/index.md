@@ -21,3 +21,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
 [Mr. Brightside](song/jan/mr_brightside.md)
+
+### [Imagine Dragons0](writer/imagine_dragons.md)  | imagine.dragons6♦onlirycs.magazine
+
+[Believer](song/feb/believer.md)
